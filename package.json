@@ -1,0 +1,33 @@
+{
+  "name": "sample-watson",
+  "version": "1.0.0",
+  "description": "Test IBM Natural language understanding and discovery",
+  "main": "watson.js",
+  "scripts": {
+    "test": "node watson.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NehaNautiyal/sample-watson.git"
+  },
+  "keywords": [
+    "ibm",
+    "watson",
+    "natural",
+    "language",
+    "understanding",
+    "discovery",
+    "sentiment",
+    "analysis"
+  ],
+  "author": "Neha Nautiyal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NehaNautiyal/sample-watson/issues"
+  },
+  "homepage": "https://github.com/NehaNautiyal/sample-watson#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "ibm-watson": "^4.2.1"
+  }
+}
